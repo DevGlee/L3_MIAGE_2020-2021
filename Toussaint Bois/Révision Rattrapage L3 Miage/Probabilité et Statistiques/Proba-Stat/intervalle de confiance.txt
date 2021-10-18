@@ -1,0 +1,4 @@
+Elle se calcule sur la base de cette formule : Za/2 x σ/√(n). 
+Za/2 est le coefficient de confiance, avec a = degré de confiance, σ = écart type et n = taille de l'échantillon. 
+En plus court, il faut multiplier la valeur critique par l'erreur type.
+
